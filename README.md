@@ -10,7 +10,7 @@ Follow the instructions of your instructor and complete all challenges.
 
 ## Deliverables
 
-- `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.ipynb` with your responses.
+- `challenge-1.ipynb` and `challenge-2.ipynb` with your responses.
 
 ## Submission
 
